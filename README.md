@@ -1,6 +1,7 @@
 ### Hi there 👋
-This is an H1
+Work Experience
 =============
+* (2017.01 ~2019.08) 물환경정보시스템 홈페이지 관리
 <!--
 **doizz/doizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 경력 사항
